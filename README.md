@@ -1,3 +1,3 @@
 # PRAISE
 Personality Recognition using AI on Semantics
-Nandini Nandini
+Nandini Nandini N
