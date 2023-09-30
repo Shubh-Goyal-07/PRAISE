@@ -4,5 +4,6 @@ Personality Recognition using AI on Semantics
 =======
 
 
+##Contributors
+Tharakadatta D Hegde 
 
->>>>>>> adae517bb47107e589c38e33bb9e26187ff45fc6
